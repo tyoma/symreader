@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "symreader", "symreader.vcxproj", "{B11AC5A8-35F6-4342-837F-C982A951EBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|Win32 = Debug|Win32
+		Release|Android = Release|Android
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Debug|Android.ActiveCfg = Debug|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Debug|Android.Build.0 = Debug|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Debug|Android.Deploy.0 = Debug|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Debug|Win32.Build.0 = Debug|Win32
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Release|Android.ActiveCfg = Release|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Release|Android.Build.0 = Release|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Release|Android.Deploy.0 = Release|Android
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Release|Win32.ActiveCfg = Release|Win32
+		{B11AC5A8-35F6-4342-837F-C982A951EBDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
